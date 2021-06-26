@@ -46,6 +46,6 @@ https://lists.gnu.org/archive/html/savannah-users/
 ![lookingUpTheThread](https://user-images.githubusercontent.com/21064622/123507277-34c66d80-d671-11eb-8686-5e133e8bd509.gif)
 
 ### The Example thread 
-**How it looks in the Google Mail** https://mail.google.com/mail/u/0/#sent/KtbxLzfljSHdsPcxqbzHKgXXBvNSNBsxPg
-**Archives** https://lists.gnu.org/archive/html/savannah-users/2021-06/threads.html
+**How it looks in the Google Mail** https://mail.google.com/mail/u/0/#sent/KtbxLzfljSHdsPcxqbzHKgXXBvNSNBsxPg  
+**Archives** https://lists.gnu.org/archive/html/savannah-users/2021-06/threads.html  
 
