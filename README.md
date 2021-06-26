@@ -18,7 +18,7 @@ https://savannah.gnu.org/
 
 </details>
 
-[The mailing list archive](https://lists.gnu.org/archive/html/)
+* [The mailing list archive](https://lists.gnu.org/archive/html/)
 
 # 🦌 Savannah new users place
 
