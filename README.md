@@ -33,6 +33,9 @@ https://lists.gnu.org/archive/html/savannah-users/
 
 ### Remember to press reply to all ![replyToAll](https://user-images.githubusercontent.com/21064622/123506591-a56b8b00-d66d-11eb-8ab4-c25cfc897d06.gif)
 
+### Remember to expand the Reply History or delete it and only quote the part from the reply history
+![RememberToExpandReplyHistory](https://user-images.githubusercontent.com/21064622/123521921-5f8ce200-d6c2-11eb-88c6-ff9f1c274d35.gif)
+
 ### Getting the Message-ID for administrators
 ![gettingMessage-ID](https://user-images.githubusercontent.com/21064622/123506717-5d993380-d66e-11eb-8f9f-7f9e568da35c.gif)
 
