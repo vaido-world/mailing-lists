@@ -36,4 +36,4 @@ https://lists.gnu.org/archive/html/savannah-users/
 ### Getting the Message-ID for administrators
 ![gettingMessage-ID](https://user-images.githubusercontent.com/21064622/123506717-5d993380-d66e-11eb-8f9f-7f9e568da35c.gif)
 
-### Getting Date for administrators
+### Getting Message Date for administrators
