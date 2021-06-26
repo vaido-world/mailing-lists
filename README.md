@@ -29,6 +29,7 @@ https://lists.gnu.org/mailman/listinfo/savannah-users
 https://lists.gnu.org/archive/html/savannah-users/
 
 ### A new thread can be made by simply sending to the `savannah-users@gnu.org`
+![createNewThread](https://user-images.githubusercontent.com/21064622/123507123-77d41100-d670-11eb-9908-1347c5641e61.gif)
 
 ### Remember to press reply to all ![replyToAll](https://user-images.githubusercontent.com/21064622/123506591-a56b8b00-d66d-11eb-8ab4-c25cfc897d06.gif)
 
