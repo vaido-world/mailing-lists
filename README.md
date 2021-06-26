@@ -1,4 +1,4 @@
-# mailing-lists
+# ✉️ mailing-lists
 Information and notes about Mailing lists
 
 
