@@ -14,7 +14,7 @@ You have to subscribe to a mailing list.
 
 ![image](https://user-images.githubusercontent.com/21064622/123506400-a223cf80-d66c-11eb-9234-7dd38fd6f8cc.png) 
 
-# Savannah new users place
+# 🦌 Savannah new users place
 
 ### Main page of savannah-users
 https://lists.gnu.org/mailman/listinfo/savannah-users
